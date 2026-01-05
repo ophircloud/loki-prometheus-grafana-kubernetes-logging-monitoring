@@ -97,7 +97,3 @@ port-forward
 ```bash
 kubectl port-forward -n monitoring svc/grafana 3000:80
 ```
-
-## Become a Cloud and DevOps Engineer
-
-Learn every tool that matters: [https://rslim087a.github.io/rayanslim](https://rslim087a.github.io/rayanslim)
